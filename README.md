@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @svenbergner. I'm a senior software engineer. 
+- 👀 I’m interested in C++, Qt, Git, Flutter.
+- 🌱 I’m currently learning Git and Flutter.
+- 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal
+- 🎸 I play guitar
