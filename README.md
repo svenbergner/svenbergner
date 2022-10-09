@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svenbergner. I'm a senior software engineer. 
 - 👀 I’m interested in C++, Qt, Git, Flutter.
-- 🌱 I’m currently learning Vim, Git and Flutter.
+- 🌱 I’m currently learning vim. After more then 20 years using emacs I discoverd vim.
 - 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal
 - 🎸 I play guitar
