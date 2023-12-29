@@ -1,8 +1,8 @@
 # Some information about me
 
 - 👋 Hi, I’m @svenbergner. I'm a fulltime senior software engineer. 
-- 👀 I’m interested in Git, Flutter, Dart, CMake, C++, Qt.
-- 🌱 I’m currently learning neovim. After more then 20 years using emacs I discoverd vim.
+- 👀 I’m interested in Neovim, Git, Flutter, Dart, CMake, C++, Qt.
+- 🌱 I’m currently learning Neovim. After more then 20 years using emacs I discoverd vim.
 - 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal, Symphonic Metal
 - 🎸 I play guitar
 
