@@ -1,13 +1,13 @@
 # Some information about me
 
 - 👋 Hi, I’m @svenbergner. I'm a fulltime senior software engineer. 
-- 👀 I’m interested in Neovim, Git, Flutter, Dart, CMake, C++, Qt.
-- 🌱 I’m currently learning Neovim. After more then 20 years using emacs I discoverd vim.
+- 👀 I’m interested in Neovim, Git, Flutter, Dart, CMake, C++, Qt, Wezterm, ZSH.
+- 🌱 I use Neovim btw. For me an absolute groundbreaking new experience in editing code and other text.
 - 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal, Symphonic Metal
 - 🎸 I play guitar
 
 ## My Homepage
-You can find my private homepage under [http://www.linuxtaskforce.de](LinuxTaskForce). It's really outdated and needs some work.
+You can find my private homepage under [http://www.linuxtaskforce.de](LinuxTaskForce). It's really outdated and needs a lot of work.
 
 ## Some Repo Statistics
 
