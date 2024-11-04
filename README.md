@@ -7,10 +7,10 @@
 - 🎸 I play guitar
 
 ## My dotfiles
-If you are interessted my [https://github.com/svenbergner/dotfiles](Dotfiles).
+If you are interessted my [Dotfiles](https://github.com/svenbergner/dotfiles).
 
 ## My Homepage
-You can find my private homepage under [http://www.linuxtaskforce.de](LinuxTaskForce). It's really outdated and needs a lot of work.
+You can find my private homepage under [LinuxTaskForce](http://www.linuxtaskforce.de). It's really outdated and needs a lot of work.
 
 ## Some Repo Statistics
 
