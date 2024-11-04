@@ -6,6 +6,9 @@
 - 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal, Symphonic Metal
 - 🎸 I play guitar
 
+## My dotfiles
+If you are interessted my [https://github.com/svenbergner/dotfiles](Dotfiles).
+
 ## My Homepage
 You can find my private homepage under [http://www.linuxtaskforce.de](LinuxTaskForce). It's really outdated and needs a lot of work.
 
