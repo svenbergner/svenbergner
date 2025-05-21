@@ -1,7 +1,7 @@
 # Some information about me
 
 - 👋 Hi, I’m Sven Bergner, a fulltime senior software engineer. 
-- 👀 I’m interested in Neovim, Git, Flutter, Dart, CMake, C++, Qt, Wezterm, ZSH.
+- 👀 I’m interested in Neovim, Git, Lua, Flutter, Dart, CMake, C++, Qt, Wezterm, ZSH.
 - 🌱 I use Neovim btw. For me it's an absolute groundbreaking new experience in editing code and other text.
 - 🤘 I'm a metal head. I love Powermetal, NWOBHM, Speedmetal, Symphonic Metal.
 - 🎸 I play guitar
